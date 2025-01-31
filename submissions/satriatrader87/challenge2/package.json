@@ -103,7 +103,7 @@
     "merge2": "^1.4.1",
     "micromatch": "^4.0.8",
     "mime": "^3.0.0",
-    "mime-db": "^1.52.0",
+    "mime-db": "^1.53.0",
     "mime-types": "^2.1.35",
     "minimatch": "^3.1.2",
     "minimist": "^1.2.8",
